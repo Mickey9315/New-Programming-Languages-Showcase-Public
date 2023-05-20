@@ -1,2 +1,2 @@
-# New-Programming-Languages-Showcase
+# New Programming Languages Showcase
 About New Programming Languages
