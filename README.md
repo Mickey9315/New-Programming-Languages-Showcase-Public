@@ -4,6 +4,7 @@ This repository is a collection of information and resources on various new prog
 
 ## Table of Contents
 - [List of Programming Languages](#list-of-programming-languages)
+  - [Name of Language](#name-of-language)
 - [Contributing](#contributing)
 - [License](#license)
 
