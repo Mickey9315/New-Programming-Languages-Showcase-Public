@@ -32,4 +32,4 @@ We welcome contributions from everyone! If you know about a new programming lang
 
 ## License
 
-This repository is licensed under [MIT License](https://github.com/<username>/<repo-name>/blob/master/LICENSE). By contributing to this repository, you agree to license your contributions under the same license.
+This repository is licensed under [MIT License](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/LICENSE). By contributing to this repository, you agree to license your contributions under the same license.
