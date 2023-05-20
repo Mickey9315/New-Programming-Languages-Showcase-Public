@@ -11,7 +11,8 @@ This repository is a collection of information and resources on various new prog
 
 Currently, the following programming languages are included in this repository:
 
-- **Name of Language**: 
+#### Name of Language
+
   - **Developed by**: 
   - **Developed in**: 
   - **Supported by**: 
