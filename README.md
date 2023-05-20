@@ -31,9 +31,8 @@ Please feel free to contribute to this list by submitting a pull request!
 
 We welcome contributions from everyone! If you know about a new programming language that should be included in this repository, please feel free to open an issue or submit a pull request. Please make sure your contributions follow the guidelines outlined in our [Contribution Guidelines](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/CONTRIBUTING.md).
 
-## Thanks to Contributors
 
-We would like to extend a special thanks to the following individuals for their contributions to this project:
+## Thanks to Contributors
 
 ![Alt](https://repobeats.axiom.co/api/embed/ec25841d67de318634b1337eb7962c1f300ac5d5.svg "Repobeats analytics image")
 
