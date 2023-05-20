@@ -8,15 +8,14 @@ To add a new programming language to the repository, please follow these steps:
 
 - Follow the format specified in the README.md file like the following:
 
-    Language Name
+    [Language Name](link-to-language)
     Developed by: [Developer Name(s)](link-to-developer)
     Developed in: [Year]
     Supported by: [Supporting Organization(s)](link-to-supporting-org)
     Brief History: [Short history of the language]
     Advantages: [List of advantages]
-    Disadvantages: [List of disadvantages]
     Usage Examples: [Examples of how the language is used]
-    Successful Applications: [Examples of successful applications]
+    Successful Applications: [Examples of successful applications with link]
     Future: [Future prospects of the language]
     
 - Provide accurate and up-to-date information.
