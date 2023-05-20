@@ -1,0 +1,45 @@
+# Contribution Guidelines
+
+Welcome contributions to the New Programming Languages Showcase repository! To ensure that all contributions are valuable and consistent, please follow these guidelines when submitting changes:
+
+## Adding a New Programming Language
+To add a new programming language to the repository, please follow these steps:
+- Follow the format specified in the README.md file like the following:
+```
+# Language Name
+
+**Developed by:** [Developer Name(s)](link-to-developer)
+
+**Developed in:** [Year]
+
+**Supported by:** [Supporting Organization(s)](link-to-supporting-org)
+
+**Brief History:** [Short history of the language]
+
+**Advantages:** [List of advantages]
+
+**Disadvantages:** [List of disadvantages]
+
+**Usage Examples:** [Examples of how the language is used]
+
+**Successful Applications:** [Examples of successful applications]
+
+**Future:** [Future prospects of the language]
+```
+- Provide accurate and up-to-date information.
+- Use proper grammar and spelling.
+- Include references when necessary.
+
+## How to Contribute
+
+To contribute to this repository, follow these steps:
+
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them to your branch.
+4. Submit a pull request.
+
+After receiving your pull request, we will review your changes and merge them if they meet our requirements.
+
+Thank you for your interest in contributing to NewLingo!
+We appreciate your contributions to this repository!
