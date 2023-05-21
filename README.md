@@ -2,11 +2,18 @@
 
 This repository is a collection of information and resources on various new programming languages. Here, you can find descriptions, development details, advantages, usage examples, successful applications, and future prospects of these languages. We hope that this repository will be a helpful resource for developers looking to explore new programming languages.
 
+
+## Contributing
+
+We welcome contributions from everyone! If you know about a new programming language that should be included in this repository, please feel free to open an issue or submit a pull request. Please make sure your contributions follow the [Contribution Guidelines](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/CONTRIBUTING.md).
+
+
 ## Table of Contents
 - [List of Programming Languages](#list-of-programming-languages)
   - [Name of Language](#name-of-language)
 - [Contributing](#contributing)
 - [License](#license)
+
 
 ## List of Programming Languages
 
@@ -24,11 +31,6 @@ Currently, the following programming languages are included in this repository:
   - **Future Outlook**: 
 
 Please feel free to contribute to this list by submitting a pull request!
-
-
-## Contributing
-
-We welcome contributions from everyone! If you know about a new programming language that should be included in this repository, please feel free to open an issue or submit a pull request. Please make sure your contributions follow the [Contribution Guidelines](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/CONTRIBUTING.md).
 
 
 ## Thanks to Contributors
