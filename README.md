@@ -28,7 +28,7 @@ Please feel free to contribute to this list by submitting a pull request!
 
 ## Contributing
 
-We welcome contributions from everyone! If you know about a new programming language that should be included in this repository, please feel free to open an issue or submit a pull request. Please make sure your contributions follow the guidelines outlined in our [Contribution Guidelines](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/CONTRIBUTING.md).
+We welcome contributions from everyone! If you know about a new programming language that should be included in this repository, please feel free to open an issue or submit a pull request. Please make sure your contributions follow the [Contribution Guidelines](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/CONTRIBUTING.md).
 
 
 ## Thanks to Contributors
