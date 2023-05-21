@@ -5,7 +5,7 @@ This repository is a collection of information and resources on various new prog
 
 ## Contributing
 
-We welcome contributions from everyone! If you know about a new programming language that should be included in this repository, please feel free to open an issue or submit a pull request. Please make sure your contributions follow the [Contribution Guidelines](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/CONTRIBUTING.md).
+Welcome contributions from everyone! If you know about a new programming language that should be included in this repository, please feel free to open an issue or submit a pull request. Please make sure your contributions follow the [Contribution Guidelines](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/CONTRIBUTING.md).
 
 
 ## Table of Contents
