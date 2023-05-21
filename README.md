@@ -44,4 +44,4 @@ Please feel free to contribute to this list by submitting a pull request!
 
 ## License
 
-This repository is licensed under [MIT License](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/LICENSE). By contributing to this repository, you agree to license your contributions under the same license.
+This repository is licensed under [MIT License](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/master/LICENSE).
