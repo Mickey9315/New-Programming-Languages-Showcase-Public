@@ -29,7 +29,8 @@ Currently, the following programming languages are included in this repository:
   - **Advantages**: 
   - **Use of Examples**: 
   - **Successful Examples**: 
-  - **Future Outlook**: 
+  - **Future Outlook**:  
+  - **How to Learn**: 
 
 Please feel free to contribute to this list by submitting a pull request!
 
