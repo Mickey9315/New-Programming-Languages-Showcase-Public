@@ -1,6 +1,6 @@
 # New Programming Languages Showcase
 
-This repository is a collection of information and resources on various new programming languages. Here, you can find descriptions, development details, advantages, usage examples, successful applications, and future prospects of these languages. We hope that this repository will be a helpful resource for developers looking to explore new programming languages.
+This repository is a collection of information and resources on various new programming languages. Here, you can find descriptions, development details, advantages, usage examples, successful applications, and future prospects of these languages. Hope that this repository will be a helpful resource for developers looking to explore new programming languages.
 
 
 ## Contributing
