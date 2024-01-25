@@ -13,7 +13,7 @@ Mojo was developed by Modular Inc., a company founded by Chris Lattner, the orig
 
 An initial build of Mojo was introduced by Modular Inc. in September 2022. Since then, it has undergone further development to become a viable and innovative programming language.
 
-### Supported by:
+### Sponsored by:
 
 Mojo leverages the Multi-Level Intermediate Representation (MLIR) compiler framework to power its advanced compilation features. MLIR, initially started at Google and continued at Modular, has been widely adopted in the machine learning accelerator community for its ability to build domain-specific compilers.
 
