@@ -18,7 +18,7 @@ Welcome contributions from everyone! If you know about a new programming languag
 
 Currently, the following programming languages are included in this repository:
 
-#### [Mojo](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/Mojo%20Programming%20Language.md)
+- [Mojo](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/Mojo%20Programming%20Language.md)
 
 Please feel free to contribute to this list by submitting a pull request!
 
