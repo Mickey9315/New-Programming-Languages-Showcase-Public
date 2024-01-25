@@ -10,7 +10,6 @@ Welcome contributions from everyone! If you know about a new programming languag
 
 ## Table of Contents
 - [List of Programming Languages](#list-of-programming-languages)
-  - [Name of Language](#name-of-language)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -19,18 +18,7 @@ Welcome contributions from everyone! If you know about a new programming languag
 
 Currently, the following programming languages are included in this repository:
 
-#### Name of Language
-
-  - **Description**: 
-  - **Developed by**: 
-  - **Developed in**: 
-  - **Supported by**: 
-  - **Brief History**: 
-  - **Advantages**: 
-  - **Use of Examples**: 
-  - **Successful Examples**: 
-  - **Future Outlook**:  
-  - **How to Learn**: 
+#### [Mojo](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/Mojo%20Programming%20Language.md)
 
 Please feel free to contribute to this list by submitting a pull request!
 
