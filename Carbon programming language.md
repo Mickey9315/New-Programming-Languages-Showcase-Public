@@ -27,9 +27,13 @@ The advantages of Carbon are as follows :
 4) Interoperable with c++
 
 # Future Outlook
+The future of carbon depends upon its adoption by the programmers of c++ and its popularity among them. If Carbon continues to develop as planned, it could become a strong alternative to C++ for systems programming and other high-performance applications.However, as of now, Carbon is still experimental, and it remains to be seen whether it will gain widespread adoption.
 
-
-
+# How To Learn
+1) From Official Documentation
+2) Watch the initial announcement and presentations by Chandler Carruth and others involved in Carbon’s development to understand the language’s goals and design principles.
+3) Through community involvement 
+4) Experimentation with the Code and features.
 
 
 
