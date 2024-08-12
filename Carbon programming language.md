@@ -20,7 +20,13 @@ Carbon was publically announced in july 2022 as an experimental language that co
 3.Interoperable with c++:Carbon can be used at the place of c++ while maintaining the existing c++ codebases.
 
 # Advantages 
+The advantages of Carbon are as follows :
+1) Improved syntax and safety
+2) Memory safety
+3) Tooling and Ecosystem
+4) Interoperable with c++
 
+# Future Outlook
 
 
 
