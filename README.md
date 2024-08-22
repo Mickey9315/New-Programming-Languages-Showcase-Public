@@ -18,9 +18,9 @@ Welcome contributions from everyone! If you know about a new programming languag
 
 Currently, the following programming languages are included in this repository:
 
-- [Mojo](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/Mojo%20Programming%20Language.md)
-- [Roc](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/Roc%20Programming%20Language.md)
-- [Carbon](https://github.com/carbon-language/carbon-lang)
+- [Mojo](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/mojo-lang.md)
+- [Roc](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/roc-lang.md)
+- [Carbon](https://github.com/multikitty/New-Programming-Languages-Showcase/blob/main/carbon-lang.md)
 
 Please feel free to contribute to this list by submitting a pull request!
 
