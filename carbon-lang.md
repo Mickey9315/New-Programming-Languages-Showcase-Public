@@ -36,7 +36,7 @@ The future of Carbon hinges on its adoption by the C++ programming community. If
 
 ### How To Learn
 
-- **Official Documentation**: Start with the official Carbon Language documentation to understand the language's syntax, features, and design principles. The documentation is available [here](https://carbon-lang.org/docs).
+- **Official Documentation**: Start with the official Carbon Language documentation to understand the language's syntax, features, and design principles. The documentation is available [here](https://docs.carbon-lang.dev).
 - **GitHub Repository**: Explore the Carbon Language GitHub repository to access the source code, build instructions, and community resources. The repository can be found [here](https://github.com/carbon-language/carbon-lang).
 - **Announcement Video**: Watch the announcement video from CppNorth to gain insights into the goals and motivations behind the Carbon Language project.
 - **Community Involvement**: Engage with the Carbon Language community through forums, discussions, and mailing lists to share experiences, ask questions, and learn from other developers.
